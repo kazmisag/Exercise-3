@@ -1,2 +1,2 @@
 # Exercise 3
-Second version of Exercise 3
+Second practice of Exercise 3
