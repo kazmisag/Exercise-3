@@ -1,2 +1,2 @@
-# Exercise-3
+# Exercise 3
 Second version of Exercise 3
